@@ -57,7 +57,7 @@ except URLError as e:
 #streamlit.dataframe(fruityvice_normalized)
 
 
-streamlit.stop()
+#streamlit.stop()
 
 
  
